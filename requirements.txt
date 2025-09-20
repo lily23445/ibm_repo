@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+python-multipart
+sqlalchemy
+psycopg2-binary   # if using PostgreSQL
